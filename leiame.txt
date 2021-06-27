@@ -1,0 +1,5 @@
+Os programas foram desenvolvidos utilizando a IDE Code Blocks (Release 17.12 rev 11256) no Windows 10.
+Para executá-los, é necessário abrir o arquivo dentro da IDE, ir até a aba "build", e 
+selecionar "Build and run". Caso os comandos default não tenham sido alterados, é também possível
+simplesmente pressionar o botão "F9" do teclado já dentro da IDE com o código aberto para poder compilar
+e executar o código.
